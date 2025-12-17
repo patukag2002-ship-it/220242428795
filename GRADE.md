@@ -4,25 +4,6 @@
 **Semester:** _ONE_                               
 **Academic Year:** _2025/2026_
 
-##  Raw Grades
------------------------------------
-| Coursework         |Score (100%)|
-|--------------------|------------|
-| Class Participation|            |
-| Assignment 0       |      0     |
-| Assignment 1       |            |
-| Assignment 2       |            |
-| Assignment 3       |            |
-| Test I             |            |
-| Assignment 4       |            |
-| Assignment 5       |            |
-| Test II            |            |
-| Assignment 6       |            |
------------------------------------
-
-
-
-
 ##  Grade Summary
 
 
