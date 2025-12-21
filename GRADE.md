@@ -13,11 +13,12 @@
 | Class Participation|  10%    |           |                |
 | Assignment 0       |   4%    |       0.0 |                |
 | Assignment 1       |   6%    |      79.9 |                |
+| Quiz 1             |   4%    |      80.1 |                |
 | Assignment 2       |  10%    |           |                |
 | Assignment 3       |  12%    |           |                |
-| Test I             |   4%    |           |                |
-| Assignment 4       |  15%    |           |                |
-| Assignment 5       |  18%    |           |                |
-| Test II            |   4%    |           |                |
-| Assignment 6       |  17%    |           |                |
-| **Total**          | **100%**|  **47.94**|   **28.76/60** |
+| Test I             |   6%    |           |                |
+| Assignment 4       |  13%    |           |                |
+| Assignment 5       |  14%    |           |                |
+| Test II            |   6%    |           |                |
+| Assignment 6       |  15%    |           |                |
+| **Total**          | **100%**|  **57.13**|   **34.28/60** |
